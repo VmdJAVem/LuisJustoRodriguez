@@ -1,6 +1,6 @@
 - 👋 hola yo soy @LuisJustoRodriguez
-- 👀 estoy interesado en automatización
-- 🌱 estoy aprendiendo c++
+- 👀 estoy interesado en hacking
+- 🌱 estoy aprendiendo python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
